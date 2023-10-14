@@ -1,6 +1,6 @@
 package interface_adapter.clear_users;
 
-// TODO Complete me Done???
+// Done! It modified the signup view model accordingly
 
 import interface_adapter.ViewManagerModel;
 import interface_adapter.login.LoginViewModel;

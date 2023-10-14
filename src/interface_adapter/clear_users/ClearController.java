@@ -1,6 +1,6 @@
 package interface_adapter.clear_users;
 
-// TODO Complete me Done?
+// Done! It calls the execute method of the clear interactor
 
 import use_case.clear_users.ClearInputBoundary;
 

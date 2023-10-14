@@ -1,9 +1,8 @@
 package interface_adapter.clear_users;
 
-// TODO Complete me Done?
+// This is not needed, we use the signup view model instead
 
 import interface_adapter.ViewModel;
-import interface_adapter.signup.SignupState;
 
 import java.beans.PropertyChangeListener;
 import java.beans.PropertyChangeSupport;

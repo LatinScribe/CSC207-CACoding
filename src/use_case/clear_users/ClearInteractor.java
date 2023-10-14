@@ -1,6 +1,6 @@
 package use_case.clear_users;
 
-// TODO Complete me Done?
+// Done!
 
 public class ClearInteractor implements ClearInputBoundary {
     final ClearUserDataAccessInterface userDataAccessObject;

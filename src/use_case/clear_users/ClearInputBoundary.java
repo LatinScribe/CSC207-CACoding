@@ -1,6 +1,6 @@
 package use_case.clear_users;
 
-// TODO Complete me - DOne?
+// Done, it is implemented by the clear interactor
 
 public interface ClearInputBoundary {
     void execute();

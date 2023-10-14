@@ -1,6 +1,6 @@
 package interface_adapter.clear_users;
 
-// TODO Complete me
+// This is not needed, we use the modified signup state instead
 
 
 public class ClearState {

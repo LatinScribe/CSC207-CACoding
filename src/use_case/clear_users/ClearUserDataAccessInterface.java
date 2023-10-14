@@ -1,6 +1,6 @@
 package use_case.clear_users;
 
-// TODO Complete me
+// Done! Added a delete method
 
 public interface ClearUserDataAccessInterface {
     void delete();
